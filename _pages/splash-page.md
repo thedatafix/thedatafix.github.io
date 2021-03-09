@@ -5,7 +5,7 @@ permalink: "/"
 header:
   #overlay_color: "#000"
   overlay_filter: #"0.2"
-  overlay_image: assets/post_teasers/thedatafix_orange/thedatafix_orange.002.jpeg
+  overlay_image: assets/post_teasers/thedatafix_orange/orange_line.001.jpeg #thedatafix_orange.002.jpeg
   #assets/splash/logo/gtdf-red-background_logo.jpeg  #logo_v2.010.jpeg
   #/assets/splash/logo_v2/logo_v2.005.jpeg
   #new_desk.jpeg
@@ -13,7 +13,7 @@ header:
   actions:
     #- label: "See More"
     #  url: #"/posts/" #"#test-link"
-excerpt: "the data perspective"#"understand more data"  #"Coming Soon"
+excerpt: "the data perspective" #"the data perspective" #"understand more data"  #"Coming Soon"
 
 sidebar:
   nav: sidebar-sample

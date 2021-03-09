@@ -26,15 +26,13 @@ sidebar:
 
 # {% include bluelogo_the_money_list_plot.html type="left" width="500" height="500" %}
 #<img src="/assets/post_teasers/thedatafix_orange/thedatafix_orange.001.jpeg" width="100%">
-
+# {% include pga_money_list/nologo_the_money_list_plot2.html type="left" width="100" height="100"%}
+#<br />
+#<br />
+#<br />
+#<br />
+#<br />
 ---
 
 ____
-{% include pga_money_list/nologo_the_money_list_plot2.html type="left" width="100" height="100"%}
-<br />
-<br />
-<br />
-
-
-
----
+{% include pga_money_list/fixed_nologo_the_money_list_plot2.html type="left" width="100" height="100"%}
