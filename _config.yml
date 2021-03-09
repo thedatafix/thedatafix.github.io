@@ -40,7 +40,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # TEST
-logo                     : #assets/splash/logo/thedatafix_blue.jpg #"assets/splash/logo/gtdf-red-background_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : assets/splash/logo/blue_no_text.001.jpeg #assets/splash/logo/thedatafix_blue.jpg #"assets/splash/logo/gtdf-red-background_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "The Data Fix" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 
