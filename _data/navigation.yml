@@ -1,9 +1,45 @@
 main:
   #- title: "Posts"
   #  url: /posts/
-#  - title: "Categories"
-#    url: /categories/
+  #- title: "Work"
+  #  url: /categories/
 #  - title: "Tags"
 #    url: /tags/
 #  - title: "About"
 #    url: /about/
+
+sidebar-sample:
+  - title: "Home"
+    url: /
+    #children:
+    #  - title: "Return to Homepage"
+    #    url: /
+
+  - title: "Visualizations"
+    url: #/categories/viz/
+    children:
+      - title: "Gallery"
+        url: categories/viz/
+
+  - title: "Stories"
+    url:
+    children:
+      - title: "Coming Soon"
+      - url: #/
+
+  - title: "Products"
+    url:
+    children:
+      - title: "Coming Soon"
+      - url: #/
+
+  - title: "The Archive"
+    url: #/categories
+    children:
+      - title: "By Categories"
+        url: /categories
+      - title: "By Tags"
+        url: /tags
+
+  - title: "About"
+    url: #/

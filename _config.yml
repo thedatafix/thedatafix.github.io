@@ -13,13 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Data Fix
+title: ""
+
+locale                   : "en-US"
+title_separator          : " "
+subtitle                 : # site tagline that appears below site title in masthead
+name                     :
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  The Data Fix, thedatafix, machine learning, data, fix, data science, 
+
+description: # this means to ignore newlines until "baseurl:"The Data Fix, thedatafix, machine learning, data, fix, data science,
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default # "contrast" #default
+minimal_mistakes_skin: "default" #"contrast" #default
 search: false
 
 # Build settings
@@ -32,8 +40,8 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # TEST
-logo                     : #"assets/splash/logo_v2/logo_v2.013.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : #assets/splash/logo/thedatafix_blue.jpg #"assets/splash/logo/gtdf-red-background_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "The Data Fix" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 
 
@@ -99,8 +107,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
@@ -110,6 +118,15 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 category_archive:
   type: liquid
