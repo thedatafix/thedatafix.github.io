@@ -13,7 +13,7 @@ header:
   actions:
     #- label: "See More"
     #  url: #"/posts/" #"#test-link"
-excerpt: "the data perspective"#"understand more data"  #"Coming Soon"
+excerpt: "the data perspective" #"understand more data"  #"Coming Soon"
 
 sidebar:
   nav: sidebar-sample
