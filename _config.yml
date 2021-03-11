@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ""
+title: "The Data Fix"
 
 locale                   : "en-US"
-title_separator          : " "
+title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     :
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -24,7 +24,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 email:
 
-description: # this means to ignore newlines until "baseurl:"The Data Fix, thedatafix, machine learning, data, fix, data science,
+description: "Applying a data science perspective to explain the world around us." # this means to ignore newlines until "baseurl:"The Data Fix, thedatafix, machine learning, data, fix, data science,
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "default" #"contrast" #default
@@ -40,7 +40,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # TEST
-logo                     : assets/splash/logo/blue_no_text.001.jpeg #assets/splash/logo/thedatafix_blue.jpg #"assets/splash/logo/gtdf-red-background_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : assets/logo/blue_no_text.001.jpeg #assets/splash/logo/thedatafix_blue.jpg #"assets/splash/logo/gtdf-red-background_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "The Data Fix" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 
