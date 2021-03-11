@@ -3,20 +3,12 @@ main:
     url: /categories/viz/
   - title: "Archive"
     url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-#  - title: "About"
-#    url: /about/
 
 sidebar-sample:
   - title: "Home"
     url: /
-    #children:
-    #  - title: "Return to Homepage"
-    #    url: /
 
   - title: "Visualizations"
-    url: #/categories/viz/
     children:
       - title: "Gallery"
         url: categories/viz/
@@ -34,7 +26,6 @@ sidebar-sample:
       - url: #/
 
   - title: "The Archive"
-    url: #/categories
     children:
       - title: "By Categories"
         url: /categories
