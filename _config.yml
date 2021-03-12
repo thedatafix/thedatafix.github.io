@@ -50,7 +50,7 @@ logo                     : assets/logo/blue_no_text.001.jpeg #assets/splash/logo
 masthead_title           : "The Data Fix" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 
-og_image: assets/splash/logo/blue_logo2.001.jpeg #/assets/images/site-logo.png
+og_image: #assets/splash/logo/blue_logo2.001.jpeg #/assets/images/site-logo.png
 
 include:
   - _pages
