@@ -5,11 +5,11 @@ permalink: "/"
 header:
   overlay_color: #"#000"
   overlay_filter: #"0.2"
-  overlay_image: #assets/header/orange_line.001.jpeg
-  image: #assets/splash/logo/blue_logo2.001.jpeg #assets/header/orange_line.001.jpeg
+  overlay_image:
+  image:
   actions:
     #- label: "See More"
-    #  url: #"/posts/" #"#test-link"
+    #  url: "test-link"
 excerpt: "the data perspective"
 
 sidebar:
@@ -21,11 +21,6 @@ feature_row_left:
     url: "/visualizations/pga-money-list/"
     btn_label: "view"
     btn_class: "btn--primary" # "btn--secondar"
-
-#author_profile: true
-# <img src="assets/splash/logo/blue_logo2.001.jpeg" width="30%">
-# <h1 style="background-color:#70C0F9;font-family:Monaco;text-align:left">The Latest</h1>
-# <h1 style="color:#FFFFFF;background-color:#70C0F9;font-family:Monaco;text-align:left">The Latest</h1>
 
 ---
 <h1 style="font-family:Monaco;text-align:left">The Latest</h1>

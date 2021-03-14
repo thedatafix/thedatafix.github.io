@@ -4,11 +4,11 @@ permalink: /posts/
 layout: posts
 author_profile: false
 header:
-  #overlay_color: "#000"
+  overlay_color: #"#000"
   overlay_filter: #"0.2"
-  overlay_image: assets/header/orange_line.001.jpeg
+  overlay_image: #
 
-excerpt: "everything in one place"  #"Coming Soon"
+excerpt:  #"Coming Soon"
 sidebar:
   #title: "Sample Title"
   nav: sidebar-sample

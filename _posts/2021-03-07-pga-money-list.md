@@ -3,9 +3,6 @@ title: "Top PGA Money Earners" #"The PGA Money List"
 #last_modified_at: 2016-03-09T16:20:02-05:00
 header:
  teaser: assets/post_teasers/the_golf_money_list.png
-  #overlay_color: "#000"
-  #overlay_filter: "0.2"
-  #overlay_image:
 categories:
   - Visualizations
 tags:

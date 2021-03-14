@@ -10,7 +10,7 @@ header:
   overlay_image: #assets/header/orange_line.001.jpeg
   #/assets/splash/logo/gtdf-red-background_logo.jpeg
 
-excerpt: "everything in one place"  #"Coming Soon"
+excerpt: #
 sidebar:
   #title: "Sample Title"
   nav: sidebar-sample
