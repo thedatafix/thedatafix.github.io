@@ -6,7 +6,7 @@ author_profile: false
 header:
   #overlay_color: "#000"
   overlay_filter: #"0.2"
-  overlay_image: assets/header/orange_line.001.jpeg
+  overlay_image: #assets/header/orange_line.001.jpeg
 
 excerpt: "see data in new ways"  #"Coming Soon"
 sidebar:
