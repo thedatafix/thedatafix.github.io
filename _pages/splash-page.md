@@ -1,14 +1,15 @@
 ---
-title: "TDF"
+title: #"TDF"
 layout: single
 permalink: "/"
 header:
   overlay_color: #"#000"
   overlay_filter: #"0.2"
-  overlay_image: assets/header/orange_line.001.jpeg
+  overlay_image:
+  image:
   actions:
     #- label: "See More"
-    #  url: #"/posts/" #"#test-link"
+    #  url: "test-link"
 excerpt: "the data perspective"
 
 sidebar:
@@ -17,13 +18,12 @@ sidebar:
 feature_row_left:
   - image_path: assets/post_teasers/updated-pga-money-list.png
     excerpt: "**The PGA Money List** <br /> Plotting the Top 20 PGA Earners Since 1980"
-    url: "/visualizations/pga-money-list/" 
+    url: "/visualizations/pga-money-list/"
     btn_label: "view"
     btn_class: "btn--primary" # "btn--secondar"
 
 ---
-
-<h1 style="font-family:verdana;text-align:left">The Latest</h1>
+<h1 style="font-family:Monaco;text-align:left">The Latest</h1>
 
 ---
 

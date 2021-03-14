@@ -2,9 +2,9 @@
 permalink: /about/
 title: "About"
 header:
-  #overlay_color: "#000"
+  overlay_color: #"#000"
   overlay_filter: #"0.2"
-  overlay_image: assets/header/orange_line.001.jpeg
+  overlay_image: #
 sidebar:
   title: #"Sample Title"
   nav: sidebar-sample

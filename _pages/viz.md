@@ -4,17 +4,14 @@ layout: single #categories
 permalink: /categories/viz/
 author_profile: false
 header:
-  #overlay_color: "#000"
+  overlay_color: #"#000"
   overlay_filter: #"0.2"
-  overlay_image: assets/header/orange_line.001.jpeg
+  overlay_image: #
 
-excerpt: "see data in new ways"  #"Coming Soon"
+excerpt: #"Coming Soon"
 sidebar:
-  title: #"Sample Title"
+  title: #
   nav: sidebar-sample
-
-#entries_layout: grid
-#classes: wide
 
 gallery:
   - url: visualizations/pga-money-list
