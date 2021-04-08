@@ -2,7 +2,7 @@
 title: "Top PGA Money Earners" #"The PGA Money List"
 #last_modified_at: 2016-03-09T16:20:02-05:00
 header:
- teaser: assets/post_teasers/the_golf_money_list.png
+ teaser: assets/post_teasers/updated-pga-money-list.png
 categories:
   - Visualizations
 tags:
