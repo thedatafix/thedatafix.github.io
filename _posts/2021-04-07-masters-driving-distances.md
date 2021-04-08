@@ -13,4 +13,4 @@ excerpt: #"Plotting the Top 20 Earners Since 1980"
 sidebar:
   nav: sidebar-sample
 ---
-{% include masters_driving_distances/sample_driving_distances.html type="left" width="100" height="100"%}
+{% include masters_driving_distances/driving_distances2.html type="left" width="100" height="100"%}
