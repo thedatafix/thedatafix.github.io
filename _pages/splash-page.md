@@ -12,6 +12,8 @@ header:
     #  url: "test-link"
 excerpt: "the data perspective"
 
+#author_profile: True
+
 sidebar:
   nav: sidebar-sample
 
@@ -29,12 +31,19 @@ feature_row_left2:
     btn_label: "view"
     btn_class: "btn--primary"
 
+feature_row_left3:
+  - image_path: assets/images/fav3/android-chrome-192x192.png
+    excerpt: "**Welcome to The Data Fix** <br /> Using data science to make sense of the world around us"
+    url: "/about/"
+    btn_label: "view"
+    btn_class: "btn--primary"
+
 ---
 <h1 style="font-family:Monaco;text-align:left">The Latest</h1>
 
+
 ---
-
-
+{% include feature_row id="feature_row_left3" type="left" %}
 {% include feature_row id="feature_row_left" type="left" %}
 {% include feature_row id="feature_row_left2" type="left" %}
 ---
