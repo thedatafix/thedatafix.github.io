@@ -12,25 +12,29 @@ sidebar-sample:
     children:
       - title: "Gallery"
         url: categories/viz/
+      - title: "All Visualizations"
+        url: categories/#visualizations
 
-  - title: "Stories"
+  - title: "Writing"
     url:
     children:
       - title: "Coming Soon"
-      - url: #/
+        url: #/
 
   - title: "Products"
     url:
     children:
       - title: "Coming Soon"
-      - url: #/
+        url: #/
 
-  - title: "The Archive"
+  - title: "Archive"
     children:
-      - title: "By Categories"
+      - title: "Sorted by Categories"
         url: /categories
-      - title: "By Tags"
+      - title: "Sorted by Tags"
         url: /tags
 
-  - title: "About"
-    url: #/
+  - title: "More"
+    children:
+      - title: "About"
+        url: /about/
