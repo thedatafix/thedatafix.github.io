@@ -13,6 +13,8 @@ excerpt: #"Plotting the Top 20 Earners Since 1980"
 sidebar:
   nav: sidebar-sample
 
-#classes: wide
+classes: wide
 ---
+*An interactive plot of the Top 20 PGA Earners Since 1980*
+
 {% include pga_money_list/new_pga-money-list_nologo.html type="left" width="100" height="100"%}
