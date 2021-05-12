@@ -38,12 +38,19 @@ feature_row_left3:
     btn_label: "view"
     btn_class: "btn--primary"
 
+feature_row_left4:
+  - image_path: assets/post_teasers/oscars-decades.png #assets/images/fav3/android-chrome-192x192.png
+    excerpt: "**IMDB's Best Picture Rankings** <br /> Plotting the success of Oscar Best Picture Winners relative to one another"
+    url: "/visualizations/oscars-best-pics/"
+    btn_label: "view"
+    btn_class: "btn--primary"
+
 ---
 <h1 style="font-family:Monaco;text-align:left">The Latest</h1>
 
-
 ---
 {% include feature_row id="feature_row_left3" type="left" %}
+{% include feature_row id="feature_row_left4" type="left" %}
 {% include feature_row id="feature_row_left" type="left" %}
 {% include feature_row id="feature_row_left2" type="left" %}
 ---

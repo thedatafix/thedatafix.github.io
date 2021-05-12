@@ -23,5 +23,10 @@ gallery:
     image_path: assets/post_teasers/masters-driving-distances.png
     alt: "placeholder image 1"
     title: "Driving Distance at The Masters"
+
+  - url: visualizations/oscars-best-pics
+    image_path: assets/post_teasers/oscars-decades.png
+    alt: "placeholder image 1"
+    title: "IMDB's All Time Oscar Best Picture Rankings"
 ---
 {% include gallery caption="" %}
